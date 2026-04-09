@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Accessibility Assistant
 
 ## 🔹 1. Problem Definition
@@ -69,3 +70,6 @@ The app is fully dockerized for instant "Recruiter-Ready" setup:
 - **Dashboard:** Accessibility score + AI-generated alt-text examples.
 - **README:** Clear documentation, deployment guide, screenshots.
 - **Pitch:** "This project solves accessibility challenges for millions of users worldwide."
+=======
+# accessibility-scanner
+>>>>>>> 284bb13214093896ce2892be7b4b660426477c83
